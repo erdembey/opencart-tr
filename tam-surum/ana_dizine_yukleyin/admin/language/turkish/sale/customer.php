@@ -10,15 +10,15 @@ $_['text_default']          = 'Varsayılan';
 $_['text_approved']			= '%s hesabını onayladınız!';
 $_['text_wait']           	= 'Lütfen Bekleyiniz!';
 $_['text_balance']			= 'Bakiye:';
-$_['text_add_blacklist']    = 'Kara Listeye Ekle';
-$_['text_remove_blacklist'] = 'Kara Listeden Kaldır';
+$_['text_add_blacklist']    = 'IP Ekle';
+$_['text_remove_blacklist'] = 'IP Kaldır';
 
 // Column
 $_['column_name']			= 'Müşteri Adı';
 $_['column_email']          = 'E-Posta';
 $_['column_customer_group']	= 'Müşteri Grubu';
 $_['column_status']			= 'Durumu';
-$_['column_login']          = 'Mağazada Oturum Aç';
+$_['column_login']          = 'Oturum Aç';
 $_['column_approved']		= 'Onaylandı';
 $_['column_date_added']		= 'Ekleme Tarihi';
 $_['column_comment']        = 'Yorum';
