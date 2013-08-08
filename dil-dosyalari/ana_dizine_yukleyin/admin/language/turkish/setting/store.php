@@ -14,7 +14,7 @@ $_['text_stock']					= 'Stok';
 $_['text_image_manager']			= 'Resim Yönetimi';
 $_['text_browse']         	 		= 'Gözat';
 $_['text_clear']          			= 'Temizle';
-$_['text_shipping']					= 'Kargo Adresi';
+$_['text_shipping']					= 'Teslimat Adresi';
 $_['text_payment']					= 'Fatura Adresi';
 
 // Column
@@ -80,7 +80,7 @@ $_['help_customer_group']			= 'Varsayılan müşteri grubu.';
 $_['help_customer_group_display']	= 'Yeni kayıtlarda müşterilerinizin seçebilmesi için müşteri gruplarını göster.';
 $_['help_customer_price']			= 'Fiyatları müşteri giriş yaptığında sonra göster.';
 $_['help_account']					= 'Müşteri kayıt olurken kullanım koşullarını kabul edilsin.';
-$_['help_guest_checkout']			= 'Müşterinin hesap oluşturmadan alışveriş yapmasını sağlar. İndirilebilir ürünlerde geçerli değildir.';
+$_['help_guest_checkout']			= 'Müşterinin hesap oluşturmadan alışveriş yapmasını sağlar. Dosya içeren ürünlerde geçerli değildir.';
 $_['help_checkout']					= 'Müşteri ürün satın alırken satın alma koşullarını kabul edilsin.';
 $_['help_order_status']				= 'Sipariş işlendiğinde varsayılan sipariş durumunu ayarlayınız.';
 $_['help_stock_display']			= 'Ürün sayfasında stok miktarını göster.';
