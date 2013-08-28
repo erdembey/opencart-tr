@@ -2,11 +2,11 @@
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
 // Heading 
-$_['heading_title']		= 'Dosyalarım';
+$_['heading_title']   = 'İndirebilir Ürünlerim';
 
 // Text
-$_['text_account']		= 'Hesabım';
-$_['text_downloads']	= 'Dosyalarım';
+$_['text_account']    = 'Hesabım';
+$_['text_downloads']  = 'İndirebilir Ürünlerim';
 $_['text_empty']		= 'Daha önce dosya içeren bir ürün siparişi vermediniz!';
 
 // Column
