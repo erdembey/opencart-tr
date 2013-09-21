@@ -78,7 +78,7 @@ $_['entry_download']         = 'İndirilebilir Ürünler';
 $_['entry_related']          = 'Benzer Ürünler';
 $_['entry_tag']          	 = 'Ürün Etiketleri';
 $_['entry_reward']           = 'Ödül Puanı';
-$_['entry_layout']           = 'Bölümde Geçersiz Kıl';
+$_['entry_layout']           = 'Bu Bölüm Gibi Davran';
 
 // Help
 $_['help_keyword']           = 'Boşluk kullanmayın ve benzersiz kelimeler kullandığınızdan emin olunuz.';

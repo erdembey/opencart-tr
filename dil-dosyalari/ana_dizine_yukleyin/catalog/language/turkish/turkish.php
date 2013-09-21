@@ -17,7 +17,7 @@ $_['text_no']               = 'Hayır';
 $_['text_none']             = ' --- Yok --- ';
 $_['text_select']           = ' --- Seçiniz --- ';
 $_['text_all_zones']        = 'Tüm Şehirler';
-$_['text_pagination']       = 'Gösterilen: {start} ile {end} arası, toplam: {total} ({pages} Sayfa)';
+$_['text_pagination']       = 'Gösterilen: %d ile %d arası, toplam: %d (%d Sayfa)';
 $_['text_loading']          = 'Yükleniyor...';
 $_['text_separator']        = ' &raquo; ';
 
@@ -26,6 +26,7 @@ $_['button_add_address']    = 'Adres Ekle';
 $_['button_back']           = 'Geri';
 $_['button_continue']       = 'Devam';
 $_['button_cart']		    = 'Sepete Ekle';
+$_['button_cancel']         = 'İptal';
 $_['button_compare']        = 'Ürün Karşılaştır';
 $_['button_wishlist']       = 'A. Listeme Ekle';
 $_['button_checkout']       = 'Alışverişi Tamamla';
@@ -53,6 +54,8 @@ $_['button_voucher']        = 'Hediye Çekini Kullan';
 $_['button_upload']         = 'Dosya Yükle';
 $_['button_reward']         = 'Puanı Kullan';
 $_['button_quote']          = 'Kargo Seçeneklerini Göster';
+$_['button_list']           = 'Liste';
+$_['button_grid']           = 'Tablo';
 
 // Error
 $_['error_exception']       = 'Hata Kodu(%s): %s dosya %s satır %s';

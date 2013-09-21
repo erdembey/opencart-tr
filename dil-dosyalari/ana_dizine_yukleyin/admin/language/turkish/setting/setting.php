@@ -30,6 +30,8 @@ $_['entry_address']             = 'Adres';
 $_['entry_email']               = 'E-Posta';
 $_['entry_telephone']           = 'Telefon';
 $_['entry_fax']                 = 'Faks';
+$_['entry_location']			= 'Mağaza Konumu';
+$_['entry_locations']			= 'Mağaza Konumları';
 $_['entry_title']               = 'Başlık';
 $_['entry_meta_description']    = 'Meta Açıklaması';
 $_['entry_layout']              = 'Varsayılan Bölüm';
@@ -125,6 +127,8 @@ $_['entry_error_filename']      = 'Hata Günlük Dosyaadı';
 $_['entry_google_analytics']    = 'Google Analytics Kodu';
 
 // Help
+$_['help_location']                = 'Varsayılan mağaza konumu ve detayları iletişim sayfasında en üste gösterilecek ';
+$_['help_locations']               = 'Diğer mağaza konumlarından iletişim sayfasında göstermek istiyorsanız seçebilirsiniz.';
 $_['help_currency']                = 'Varsayılan para birimini değiştirir. Web tarayıcınızın önbelleğini ve çerezleri temizlemeniz gerekir.';
 $_['help_currency_auto']           = 'Para birimlerini günlük olarak otomatik güncelle.';
 $_['help_catalog_limit'] 	       = 'Mağazanız sayfalarında sayfa başına kaç ürün gösterileceğini seçin (ürünler, kategoriler vb)';
@@ -148,7 +152,7 @@ $_['help_checkout']                = 'Müşteri ürün satın alırken satın al
 $_['help_order_edit']              = 'Siparişi düzenleyebilmek için gün sayısı giriniz. Bu gereklidir çünkü fiyatlar ve indirimler zamanla değişebilir.';
 $_['help_invoice_prefix']          = 'Fatura numarasına ön-ek ekler (örn. INV-2011-00). Benzersiz ön-ek için Fatura No 1\'den başlayacaktır.';
 $_['help_order_status']            = 'Sipariş işlendiğinde varsayılan sipariş durumunu ayarlayınız.';
-$_['help_complete_status']         = 'Sİndirilebilir ürün ve hediye çeklerine erişebilmek için müşteri sipariş durumu burada ayarladığınız sipariş durumuna ulaşması gerekmektedir.';
+$_['help_complete_status']         = 'İndirilebilir ürün ve hediye çeklerine erişebilmek için müşteri sipariş durumu burada ayarladığınız sipariş durumuna ulaşması gerekmektedir.';
 $_['help_stock_display']           = 'Ürün sayfasında stok miktarını göster.';
 $_['help_stock_warning']           = 'Stok dışı sipariş evet ise alışveriş sepetinde stokta olmayan ürünlerde uyarı mesajı gösterilir. (Uyarı: Stok dışı sipariş hayır ise her zaman gösterilir.)';
 $_['help_stock_checkout']          = 'Müşteriler stokta olmayan ürünleri sipariş edebilsinler.';
