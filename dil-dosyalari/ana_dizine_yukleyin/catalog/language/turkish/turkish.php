@@ -11,7 +11,7 @@ $_['decimal_point']         = ',';
 $_['thousand_point']        = '.';
 
 // Text
-$_['text_home']             = 'Anasayfa';
+$_['text_home']             = '<i class="fa fa-home"></i>';
 $_['text_yes']              = 'Evet';
 $_['text_no']               = 'Hayır';
 $_['text_none']             = ' --- Yok --- ';
@@ -22,7 +22,7 @@ $_['text_loading']          = 'Yükleniyor...';
 $_['text_separator']        = ' &raquo; ';
 
 // Buttons
-$_['button_add_address']    = 'Adres Ekle';
+$_['button_address_add']    = 'Adres Ekle';
 $_['button_back']           = 'Geri';
 $_['button_continue']       = 'Devam';
 $_['button_cart']		    = 'Sepete Ekle';
@@ -56,6 +56,7 @@ $_['button_reward']         = 'Puanı Kullan';
 $_['button_quote']          = 'Kargo Seçeneklerini Göster';
 $_['button_list']           = 'Liste';
 $_['button_grid']           = 'Tablo';
+$_['button_map']            = 'Haritayı Göster';
 
 // Error
 $_['error_exception']       = 'Hata Kodu(%s): %s dosya %s satır %s';

@@ -14,9 +14,9 @@ $_['text_password']      = 'Parola Değiştir';
 $_['text_address']       = 'Adres Defterlerini Düzenle';
 $_['text_wishlist']      = 'Alışveriş Listemi Düzenle';
 $_['text_order']         = 'Sipariş Geçmişim';
-$_['text_download']      = 'İndirebilir Ürünlerim';
+$_['text_download']      = 'Dosyalarım';
 $_['text_reward']        = 'Puanlarım'; 
-$_['text_return']        = 'Ürün İade Taleplerim'; 
+$_['text_return']        = 'İade Taleplerim'; 
 $_['text_transaction']   = 'Bakiye İşlemlerim';
 $_['text_newsletter']    = 'Bültene Abone Ol / Aboneliği Kaldır.';
 ?>

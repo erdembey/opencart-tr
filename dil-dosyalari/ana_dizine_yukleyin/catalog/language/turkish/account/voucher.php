@@ -1,7 +1,7 @@
 <?php
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
-// Heading 
+// Heading
 $_['heading_title']    = 'Hediye Çeki Satın Al';
 
 // Text
@@ -13,13 +13,13 @@ $_['text_message']     = '<p>Hediye çeki satın aldığınız için teşekkür 
 $_['text_for']         = '%s tutarında %s için hediye çeki';
 
 // Entry
-$_['entry_to_name']    = 'Alıcının Adı:';
-$_['entry_to_email']   = 'Alıcının E-Posta Adresi:';
-$_['entry_from_name']  = 'Adınız:';
-$_['entry_from_email'] = 'E-Posta Adresiniz:';
-$_['entry_theme']      = 'Hediye Çeki Teması:';
-$_['entry_message']    = 'Mesajınız:';
-$_['entry_amount']     = 'Miktar:';
+$_['entry_to_name']    = 'Alıcı Adı';
+$_['entry_to_email']   = 'Alıcı E-Posta';
+$_['entry_from_name']  = 'Sizin Adınız';
+$_['entry_from_email'] = 'Sizin E-Postanız';
+$_['entry_theme']      = 'Hediye Çeki Teması';
+$_['entry_message']    = 'Mesajınız';
+$_['entry_amount']     = 'Tutar';
 
 // Help
 $_['help_message']     = '(İsteğe bağlı)';
@@ -30,6 +30,6 @@ $_['error_to_name']    = 'Alıcının adı 1 ile 64 karakter arasında olmalıd�
 $_['error_from_name']  = 'Adınız 1 ile 64 karakter arasında olmalıdır!';
 $_['error_email']      = 'Geçerli bir E-Posta adresi yazınız!';
 $_['error_theme']      = 'Bir tema seçiniz!';
-$_['error_amount']     = 'Miktar %s ile %s arasında olmalıdır!';
+$_['error_amount']     = 'Tutar %s ile %s arasında olmalıdır!';
 $_['error_agree']      = 'Uyarı: Hediye çekinin iade olmayacağını kabul etmelisiniz!';
 ?>

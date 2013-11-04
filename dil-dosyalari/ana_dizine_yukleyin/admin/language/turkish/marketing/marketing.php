@@ -2,7 +2,7 @@
 /* Turkceye Ceviren eka7a - http://www.e-piksel.com */
 
 // Heading
-$_['heading_title']     = 'Pazarlama Takip';
+$_['heading_title']     = 'Pazarlama';
 
 // Text
 $_['text_success']      = 'Başarılı: Pazarlama takibi başarılı bir şekilde değiştirildi!';
@@ -20,6 +20,7 @@ $_['entry_name']        = 'Kampanya Adı';
 $_['entry_description'] = 'Kampanya Açıklama';
 $_['entry_code']        = 'Takip Kodu';
 $_['entry_example']     = 'Örnek';
+$_['entry_date_added']  = 'Ekleme Tarihi';
 
 // Help
 $_['help_code']         = 'Pazarlama kampanyalarını takip etmek için kullanılacak kod.';

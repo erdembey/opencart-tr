@@ -11,11 +11,11 @@ $_['text_your_details']   = 'Kişisel Bilgileriniz';
 $_['text_success']        = 'Başarılı: Hesabınız başarılı bir şekilde güncellendi.';
 
 // Entry
-$_['entry_firstname']     = 'Ad:';
-$_['entry_lastname']      = 'Soyad:';
-$_['entry_email']         = 'E-Posta:';
-$_['entry_telephone']     = 'Telefon:';
-$_['entry_fax']           = 'Faks:';
+$_['entry_firstname']     = 'Ad';
+$_['entry_lastname']      = 'Soyad';
+$_['entry_email']         = 'E-Posta';
+$_['entry_telephone']     = 'Telefon';
+$_['entry_fax']           = 'Faks';
 
 // Error
 $_['error_exists']        = 'Uyarı: E-Posta adresi ile daha önce kayıt olunmuştur!';
