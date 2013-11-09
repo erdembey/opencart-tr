@@ -26,7 +26,7 @@ $_['text_pagination']         		= 'Gösterilen: %d ile %d arası, toplam: %d (%d
 $_['text_no_results']         		= 'Gösterilecek sonuç yok!';
 $_['text_edit']               		= 'Düzenle';
 $_['text_view']						= 'Göster';
-$_['text_confirm']                  = 'Onayla';
+$_['text_confirm']                  = 'Emin misiniz?';
 $_['text_home']               		= '<i class="fa fa-home"></i>';
 $_['text_loading']                  = 'Yükleniyor...';
 
@@ -90,6 +90,7 @@ $_['button_search']                 = 'Ara';
 $_['button_view']                   = 'Göster';
 $_['button_install']                = 'Kur';
 $_['button_uninstall']              = 'Kaldır';
+$_['button_link']                   = 'Link';
 
 // Tab
 $_['tab_address']             		= 'Adres';
